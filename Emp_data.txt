@@ -1,0 +1,6 @@
+     Name  Age  Course
+0  Saloni   19    Java
+1    Jack   20  Python
+2   Damin   21     C++
+3   Gargi   19       C
+4    Fish   18     SQL
