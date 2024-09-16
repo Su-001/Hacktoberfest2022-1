@@ -1,0 +1,11 @@
+    Name  Age   Course
+0   Sean   21      SQL
+1  Jenny   20        R
+2  Derek   18   Python
+3  Gibbs   19  Node Js
+4   Finn   17     Java     Name  Age  Course
+0  Saloni   19    Java
+1    Jack   20  Python
+2   Damin   21     C++
+3   Gargi   19       C
+4    Fish   18     SQL
